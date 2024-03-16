@@ -1,3 +1,5 @@
+# NOTE: This repo is archived and and read-only. Please see the official MicMag2 repo at github.com/micmag2/micmag2
+
 MicMag2 is an combined atomsitic and micromagnetic simulation package. The core programm was originally named MicroMagnum, while a lot of expansions was implemented by the MicMag2 contributors (see AUTHORS for more details).
 At the moment, the purpose of this code is ONLY to reproduce data from the paper "Energetics & Dynamics of a stable Bloch point" (arxiv:2303.10091). The code repository for the mentioned paper can be found soon (link will be updated). However, more packages will be included and tested in the near future to make this code a full-fledged simulation package. 
 Please cite the following papers and repos if you use this code:
